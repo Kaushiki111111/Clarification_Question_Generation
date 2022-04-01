@@ -1,5 +1,7 @@
 # KPCNet
 
+### This is a fork of https://github.com/blmoistawinde/KPCNet.
+
 Code for the WWW 2021 paper: [Diverse and Specific Clarification Question Generation with Keywords](./paper.pdf)
 
 A Chinese blog with my reviews of clarification question generation, for readers interested in this topic. 
