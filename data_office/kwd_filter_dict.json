@@ -1,0 +1,21 @@
+{
+  "measurement,measure,dimention,dimension,size :": ["measurement", "dimension", "dimention", "size", "height", "width", "length", "diameter"],
+  "height": ["height"],
+  "width": ["width"],
+  "length": ["length"],
+  "diameter": ["diameter"],
+  "density": ["density"],
+  "capacity": ["capacity"],
+  "depth": ["depth"],
+  "ounce,oz": ["ounce", "oz"],
+  "watt,wattage": ["watt", "wattage"],
+  "volt,voltage": ["volt", "voltage"],
+  "warranty": ["warranty"],
+  "bpa free": ["bpa"],
+  "lead free": ["lead"],
+  "oven safe": ["oven"],
+  "dishwasher safe": ["dishwasher"],
+  "microwave safe,microwavable,microwaveable": ["microwave", "microwavable","microwavable"],
+  "washable": ["washable"],
+  "@[\\d\\-\\.\\s]+(''|inch|inches|in .)?\\s*(wide|deep|long|high|w|h|d|diameter)?\\s*(by|x|,)[\\d\\-\\.\\s]+(''|inch|inches|in .)+@": ["measurement", "dimension", "dimention", "size", "height", "width", "length", "depth", "diameter"]
+}
